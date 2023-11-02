@@ -1,0 +1,2 @@
+# Ego-cepte-
+Uygulama gelistirme
