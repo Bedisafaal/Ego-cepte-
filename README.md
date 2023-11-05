@@ -1,2 +1,2 @@
-# Ego-cepte-
+proje
 Uygulama gelistirme
